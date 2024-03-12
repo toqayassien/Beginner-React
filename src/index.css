@@ -1,8 +1,9 @@
 *{
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 body{
-  background: rgb(9, 18, 103);
+  height: 100vh;
+  background-image: linear-gradient(#D8C7ff, #19006C);
+  font-family: 'poppins', sans-serif;
 }
